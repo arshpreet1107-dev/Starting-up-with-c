@@ -1,15 +1,3 @@
-/*Arshpreet Singh
-    18-02-2026
-    01450402025
-
-  Q.WAP to implement following operation on one dimensional array (CO2)
-(i) Insertion
-(ii) Deletion
-(iii) Traversal
-(iv) Reverse
-(v) Merge
-*/
-
 #include <stdio.h>
 
 int arr1[40]={1,2,3,4,5,6,7,8,9};
